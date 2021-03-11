@@ -1,0 +1,10 @@
+C:\Users\filip\source\repos\Degrees Convertor\Degrees Convertor\bin\Debug\Degrees Convertor.exe.config
+C:\Users\filip\source\repos\Degrees Convertor\Degrees Convertor\bin\Debug\Degrees Convertor.exe
+C:\Users\filip\source\repos\Degrees Convertor\Degrees Convertor\bin\Debug\Degrees Convertor.pdb
+C:\Users\filip\source\repos\Degrees Convertor\Degrees Convertor\obj\Debug\Degrees Convertor.csprojAssemblyReference.cache
+C:\Users\filip\source\repos\Degrees Convertor\Degrees Convertor\obj\Debug\Degrees_Convertor.Form1.resources
+C:\Users\filip\source\repos\Degrees Convertor\Degrees Convertor\obj\Debug\Degrees_Convertor.Properties.Resources.resources
+C:\Users\filip\source\repos\Degrees Convertor\Degrees Convertor\obj\Debug\Degrees Convertor.csproj.GenerateResource.cache
+C:\Users\filip\source\repos\Degrees Convertor\Degrees Convertor\obj\Debug\Degrees Convertor.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\Degrees Convertor\Degrees Convertor\obj\Debug\Degrees Convertor.exe
+C:\Users\filip\source\repos\Degrees Convertor\Degrees Convertor\obj\Debug\Degrees Convertor.pdb
